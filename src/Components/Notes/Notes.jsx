@@ -25,9 +25,10 @@ export default class Notes extends Component {
     }))
   }
 
-  async addNote(data) {
+  async addNote(data, func) {
     if (data.content === '') return;
     await this.api.post(data);
+    func()
     await this.updateState();
   }
 

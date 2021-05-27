@@ -19,6 +19,12 @@ export default class NoteInput extends Component {
     }))
   }
 
+  clearTextarea() {
+    this.setState((prev) => ({
+      value: ''
+    }))
+  }
+
   render() {
     return (
       <div className="notes__input">
@@ -27,7 +33,7 @@ export default class NoteInput extends Component {
         <Button icon={'faPaperPlane'} handler={() => this.props.addNote({
           key: nanoid(5),
           content: this.state.value
-        })} />
+        }, this.clearTextarea.bind(this))} />
       </div>
     )
   }
