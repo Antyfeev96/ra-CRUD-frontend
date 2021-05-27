@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ra-crud-frontend/static/css/main.caf25781.chunk.css",
-    "main.js": "/ra-crud-frontend/static/js/main.b474d8dd.chunk.js",
-    "main.js.map": "/ra-crud-frontend/static/js/main.b474d8dd.chunk.js.map",
+    "main.css": "/ra-crud-frontend/static/css/main.9fc7e2ad.chunk.css",
+    "main.js": "/ra-crud-frontend/static/js/main.2e4fd048.chunk.js",
+    "main.js.map": "/ra-crud-frontend/static/js/main.2e4fd048.chunk.js.map",
     "runtime-main.js": "/ra-crud-frontend/static/js/runtime-main.837fb530.js",
     "runtime-main.js.map": "/ra-crud-frontend/static/js/runtime-main.837fb530.js.map",
     "static/js/2.1ecc1cfb.chunk.js": "/ra-crud-frontend/static/js/2.1ecc1cfb.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.6b911540.chunk.js": "/ra-crud-frontend/static/js/3.6b911540.chunk.js",
     "static/js/3.6b911540.chunk.js.map": "/ra-crud-frontend/static/js/3.6b911540.chunk.js.map",
     "index.html": "/ra-crud-frontend/index.html",
-    "static/css/main.caf25781.chunk.css.map": "/ra-crud-frontend/static/css/main.caf25781.chunk.css.map",
+    "static/css/main.9fc7e2ad.chunk.css.map": "/ra-crud-frontend/static/css/main.9fc7e2ad.chunk.css.map",
     "static/js/2.1ecc1cfb.chunk.js.LICENSE.txt": "/ra-crud-frontend/static/js/2.1ecc1cfb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.837fb530.js",
     "static/js/2.1ecc1cfb.chunk.js",
-    "static/css/main.caf25781.chunk.css",
-    "static/js/main.b474d8dd.chunk.js"
+    "static/css/main.9fc7e2ad.chunk.css",
+    "static/js/main.2e4fd048.chunk.js"
   ]
 }
