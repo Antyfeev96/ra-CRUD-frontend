@@ -1,0 +1,17 @@
+.notes__title {
+  display: flex;
+  align-items: center;
+  
+  & span {
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+
+  & .button {
+    margin-left: 15px;
+
+    & svg {
+      color: rgb(30, 212, 30);
+    }
+  }
+}
